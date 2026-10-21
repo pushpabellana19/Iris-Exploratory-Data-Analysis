@@ -3,9 +3,13 @@ Project Overview
 This project performs Exploratory Data Analysis(EDA) on the Iris dataset using Python.
 
 Tools Used:
+
 -Python
+
 -Pandas
+
 -Matplotlib
+
 -Seaborn
 
 Visualizations:
