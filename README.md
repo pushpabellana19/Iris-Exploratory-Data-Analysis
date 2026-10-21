@@ -10,9 +10,13 @@ Tools Used:
 
 Visualizations:
 1.Iris Species Count
+
 2.Sepal Length Distribution
+
 3.Petal Length by Species
+
 4.Sepal Length vs Sepal Width
+
 5.Correltion Heatmap
 
 Key Insights:
